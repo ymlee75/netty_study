@@ -8,3 +8,4 @@ discard/.idea/scopes/scope_settings.xml
 discard/.idea/uiDesigner.xml
 discard/.idea/vcs.xml
 discard/.idea/workspace.xml
+*.class
